@@ -1,4 +1,5 @@
 # StreamVisDataExplorer
+![image](https://cloud.githubusercontent.com/assets/13710785/26028259/eb20381a-37ea-11e7-908c-8dd6492121ed.png)
 * A data visualization explorer, focused on relationships within high-dimensional multi-variate data.
 * Source code of http://www3.cs.stonybrook.edu/~shecheng/Paper/nysds16.pdf.
 
