@@ -7,3 +7,8 @@
 * We explored the relationships among given high-dimensional multi-variate data. It could be hospotal data, stock, or soil attributes data.
 * We used a sliding window to through time to display the time-varying relationship among attributes, as well as Multi-Dimensional Scaling to give a 2D (or 3D) visualization for each time period.
 
+
+### Libraries
+
+processing version 2.2.1, controlP5
+
