@@ -9,6 +9,6 @@
 
 
 ### Libraries
+ControlP5
 
-processing version 2.2.1, controlP5
-
+Developed using processing version 2.2.1, new version might cause version conflicts.
